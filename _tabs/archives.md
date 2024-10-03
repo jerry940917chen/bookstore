@@ -1,5 +1,6 @@
 ---
-layout: 上架日期
+layout: archives
+title: 上架時間
 icon: fas fa-archive
 order: 3
 ---
