@@ -26,8 +26,8 @@ description: >- # used by seo meta and the atom feed
   A Docs  site for my homelab
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://jerry_blog.github.io.git"
-#url: "https://bookstore.git"
+#url: "https://jerry_blog.github.io.git"
+url: "https://bookstore.git"
 github:
   username: github_jerry940917chen # change to your github username
 
