@@ -5,6 +5,9 @@ source "https://rubygems.org"
 # Add logger to ensure it is available after Ruby 3.5
 gem "logger"
 
+# Add ostruct to ensure it is available after Ruby 3.5
+gem "ostruct"
+
 gem "jekyll-theme-chirpy", "~> 6.2", ">= 6.2.2"
 
 group :test do
